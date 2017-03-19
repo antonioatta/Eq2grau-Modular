@@ -1,9 +1,8 @@
 
 typedef
-struct vet_eq {
+struct eq2grau {
 	int a, b, c;
 	float x1, x2;
-	float delta;
 	int raizesReais;
 } EQUACOES;
 
