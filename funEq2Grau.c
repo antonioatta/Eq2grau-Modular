@@ -19,3 +19,4 @@ int calcula_raizes(int a, int b, int c, float *pX1, float *pX2) {
     return(d>=0);
 }
 
+
